@@ -1,0 +1,6 @@
+Question,Baseline,RAG résultats,Repaired,Erreur
+Which music genre is associated with Michael Jackson (Q2831)...,"Michael Jackson was primarily associated with the pop genre, but his work also i...",14 ligne(s),False,Non
+Which record label did Michael Jackson work with?,Michael Jackson worked primarily with Epic Records. He was signed to Epic Record...,7 ligne(s),False,Non
+Who influenced Michael Jackson according to the knowledge ba...,"According to various sources, including biographies and interviews with Michael ...",Aucun,False,Non
+What awards did Michael Jackson receive?,Michael Jackson was a highly acclaimed and awarded artist. Here are some of his ...,22 ligne(s),False,Non
+Which artists have the same music style as Michael Jackson?,"Michael Jackson's music style is a unique blend of pop, rock, R&B, and dance gen...",Aucun,False,Non

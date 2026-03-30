@@ -1,0 +1,29 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prop: <http://mjackson.org/property/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+
+prop:enregistrer rdfs:label "enregistrer"@en ;
+    owl:equivalentProperty wdt:P358 .
+
+prop:recevoir rdfs:label "recevoir"@en ;
+    owl:equivalentProperty wdt:P166 .
+
+prop:rejoindre rdfs:label "rejoindre"@en ;
+    owl:equivalentProperty wdt:P463 .
+
+prop:signer rdfs:label "signer"@en ;
+    owl:equivalentProperty wdt:P264 .
+
+wdt:P1344 rdfs:subPropertyOf prop:sortir .
+
+wdt:P737 rdfs:subPropertyOf prop:isRelatedTo .
+
+prop:sortir rdfs:label "sortir"@en .
+
+wdt:P264 rdfs:subPropertyOf prop:isRelatedTo .
+
+wdt:P463 rdfs:subPropertyOf prop:isRelatedTo .
+
+prop:isRelatedTo rdfs:label "isRelatedTo"@en .
+
